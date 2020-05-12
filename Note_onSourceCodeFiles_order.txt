@@ -1,0 +1,38 @@
+1.1-1.2-1.3 Folder: CC_Bridge
+Files within:
+8up_templateBCard_InDesign.indt
+BCard_Template_psdt
+Bridge Assets.cclibs
+CC_Libraries_Check.txt
+fireworks_animation.mov
+Illustrator_template_example.ait
+raw_video_lowres.mp4
+Folder: CC_Libraries_Bridge (Bridge_Assets.cclibs, Collection.cclibs, Collection2.cclibs)
+
+1.4 Folder: CC_AdobeStock
+Files within:
+Adobe Stock Photoshop.cclibs
+Adobe_Stock_postcard_start.psd
+Adobe_Stock_postcard.psd
+**Note to Apress about that licensed image, it may or may not work the same as in the video if viewer is authorized/licensed to use the Stock Photo***
+
+2.1 Folder: CC_Animate
+Files within:
+Animate_Assets_Project_start.fla 
+Animate_Assets_Project.fla   
+CC_Library_Animation_2_r3.fla
+CC_Library_Animation_2_r3.html
+CC_Library_Animation_2_r3.js
+Folder: CC_Libraries_An (Animate Assets.cclibs)
+Folder: Animate_Images (gemstones.ai)
+
+2.2 Folder: CC_Dreamweaver_Example
+Files within:
+Folder: CC_Libraries_DW (Dreamweaver Assets.cclibs)- Note: import this Library using Bridge as there seems to be a bug in Dreamweaver, then you can use it in Dreamweaver
+Starting Folder: project_DW (images folder: 
+[background_1.jpg, gallery_images_1.jpg, gallery_images_2.jpg, gallery_images_3.jpg,gallery_images_4.jpg, nav_background.jpg ], external.css, external_images.css, index.html)
+Final Folder: project_DW_final -same files but has gallery_images_4b.jpg Artwork5.jpg and gemstone.svg as well in images folder as well as the files external.css, external_images.css, index.html have been altered in the source code for comparison.
+
+2.3 - Microsoft_Word_PowerPoint.txt (link)
+
+

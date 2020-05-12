@@ -1,0 +1,95 @@
+@charset "utf-8";
+/* CSS Document */
+/*#IDs*/
+#wrapper{
+		width:750px;
+		height:100%;
+		margin-right:auto;
+		margin-left:auto;
+	}
+	#banner{
+		background-color:#0dcdff;
+		height:150px;
+	}
+	#nav{
+		width:150px;
+		height:300px;
+		background-color:#9451a0;
+		float:left;
+	}
+	#nav h2, #nav p {
+		/*margin-left:5px;*/
+		padding-left:5px;
+		font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+		color:#3E3E3E;
+		
+	}
+#nav p{
+	background-color:black;
+		border-right:10px solid #909090;
+}
+/*Link Pseudo Class with IDs*/
+	#nav a:link, #nav a:visited, #nav a:active {
+	color:white;
+		text-decoration: none;
+	}
+	#nav a:hover{
+		color: #FFAF49;
+		text-decoration: underline;
+	}
+	
+	#story{
+		width:590px;
+		/*height:300px;*/
+		float:right;
+		margin-left:10px;
+	}
+/*.Class*/
+	.blue-text{
+		color:blue;
+	}	
+	.red-text{
+		color:red;
+	}
+	#footer{
+		width:750px;
+		float:none;
+		clear:both;
+		text-align: center;
+		background-color: #000000;
+		height:20px;
+	}
+	#footer h6{
+		color: white;
+		text-align: center;
+		font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	}
+
+		.basic-table{
+		width:200px;
+		background-color:#CAD3D0;
+		border: 1px solid black;
+	}
+/*Tag Elements*/
+	td, th{
+		border: 1px solid black;
+	}
+	.advanced-table{
+		width: 90%;
+		background-color:#FCF4C8;
+		border: 1px solid black;	
+	}
+/*Ordered and Unordered List options*/
+ul.a{
+	list-style-type: circle;
+}
+ul.b{
+	list-style-type: square;
+}
+ol.c{
+	list-style-type: upper-roman;
+}
+ol.d{
+	list-style-type: lower-alpha;
+}
+

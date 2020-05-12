@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+
+#wrapper{
+	background-image: url("images/nav_background.jpg");
+	background-repeat: repeat-y;
+}
+
+#story img{
+	float:left;
+	clear:both;
+	margin-right: 20px;
+	margin-bottom:40px;
+}
+
+.img-names-clear{
+	clear:both;
+}
+.inside{
+	list-style-position: inside;
+}
+
+canvas, svg{
+	float:left;
+	clear:both;
+	margin-right: 20px;
+	margin-bottom:40px;
+}
+
